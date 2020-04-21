@@ -1,0 +1,16 @@
+
+// ## Settings ***
+
+// Your local app / site should have a settings file defined as following.
+// |-- 1. The path to shared file.
+// |-- 2. The *locally scoped* path to file, named identically as shared file.
+
+// '_settings.fonts.scss';
+// '_settings.colours.scss';
+// '_settings.global.scss';
+// '_settings.spacing.scss';
+// '_settings.breakpoints.scss';
+
+// Example of using both shared and local copies.
+// @import '~/node_modules/cardinal-ui/scss/_settings.colours.scss';
+// @import '~/assets/scss/_settings.colours.scss';
